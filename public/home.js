@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>At Crypto.com, we understand the importance of seamless transactions and secure asset management. Our Live Agent Support is available to assist you with a wide range of concerns, including transfer errors, withdrawals, deposits, account verification, security issues, transaction delays, card services, staking inquiries, and more. Whether you need help resolving a failed transaction or securing your account, our dedicated support team is here to provide fast and reliable solutions.</p>
           </div>
         `
         break
